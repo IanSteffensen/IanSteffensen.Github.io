@@ -5,10 +5,8 @@
 ### Learn About My Projects
 
 
----
  
 
----
 #### [21 Days to Data Project](https://www.linkedin.com/pulse/what-i-learned-21-days-from-data-ian-steffensen-mba/?trackingId=y291XeZERHSQjDF2Tiupig%3D%3D)
 [<img src="images/21 day challenge.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-from-data-ian-steffensen-mba/?trackingId=y291XeZERHSQjDF2Tiupig%3D%3D)
 My final write up for Ian Steffensen 21 Days To Data project covering New York City crime data. 
