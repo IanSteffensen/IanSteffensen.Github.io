@@ -23,7 +23,7 @@ What are the top math schools in the state?
 ---
 
 ### [DoorDash Project](https://www.linkedin.com/pulse/doordash-sales-insights-ian-steffensen-mba/?trackingId=nlcfDli3q9G0zyHnpmIeZg%3D%3D)
-[<img src="images/DoorDash Analytics (1) First screen.png?raw=true/>](https://www.linkedin.com/pulse/doordash-sales-insights-ian-steffensen-mba/?trackingId=nlcfDli3q9G0zyHnpmIeZg%3D%3D)
+[<img src="images/DoorDash Analytics (1) First screen.png?raw=true"/>](https://www.linkedin.com/pulse/doordash-sales-insights-ian-steffensen-mba/?trackingId=nlcfDli3q9G0zyHnpmIeZg%3D%3D)
 In this case study from Data Analytics Accelerator, I was prompted to analyze DoorDash sales over a 24 month period. The main focuses were: 
  How many people made purchases after campaign 6?
  How much was spent in total during the 24 month period?
