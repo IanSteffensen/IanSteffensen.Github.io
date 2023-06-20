@@ -42,7 +42,7 @@ This project we focus our efforts in SQL using two data bases to pull in Patient
 
 
 ### [2022-2023 NBA season player analysis](https://www.linkedin.com/pulse/2022-2023-nba-season-player-analysis-ian-steffensen-mba/)
-[<img src="images/Basketball.png?raw=true"/>](https://www.linkedin.com/pulse/2022-2023-nba-season-player-analysis-ian-steffensen-mba/)
+[<img src="images/Basketball image.png?raw=true"/>](https://www.linkedin.com/pulse/2022-2023-nba-season-player-analysis-ian-steffensen-mba/)
 In this project I pulled all player stats from the 2022-2023 NBA season. I wanted to understand which teams and positions had the best 3 point percentages so that opposing teams could plan on defending the high efficent 3 point teams. I also wanted to see which players were best in points, assists and total rebounds by position. I also provide insights into which players scored the most and by which team. This was a really fun project as I love sports and always want to find interesting insights from the data.
 
 - [Project 2 Title](http://example.com/)
