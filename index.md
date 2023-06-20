@@ -31,7 +31,7 @@ In this case study from Data Analytics Accelerator, I was prompted to analyze Do
  
 
 ### [World Bank Project] {https://www.linkedin.com/pulse/using-sql-understand-banking-transactions-ian-steffensen-mba)
-[<img src="images/World Back Day(1) First screen.png?raw=true"/>](https://www.linkedin.com/pulse/using-sql-understand-banking-transactions-ian-steffensen-mba/)
+(https://www.linkedin.com/pulse/using-sql-understand-banking-transactions-ian-steffensen-mba/)
 In this case study from Data Analytics Accelerator, I was promoted to analyst World Bank data for the IDA which provides loans to developing country's. The main focus was understading how to use SQL to parse out the data needed to gain insights into which countries; receive the most loans, which countries repay loans fastes and more. 
 
 
