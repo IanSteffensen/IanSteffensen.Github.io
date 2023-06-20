@@ -30,7 +30,7 @@ In this case study from Data Analytics Accelerator, I was prompted to analyze Do
  Who was the oldest user to make a purchase?
  
 
-### [World Bank Project].(https://www.linkedin.com/pulse/using-sql-understand-banking-transactions-ian-steffensen-mba%3FtrackingId=I2SDCaFYT%252FGjLDGPwov4OA%253D%253D/?trackingId=I2SDCaFYT%2FGjLDGPwov4OA%3D%3D)
+### [World Bank Project](https://www.linkedin.com/pulse/using-sql-understand-banking-transactions-ian-steffensen-mba/)
 [<img src="images/World Bank Day.png?raw=true"/>](https://www.linkedin.com/pulse/using-sql-understand-banking-transactions-ian-steffensen-mba/)
 In this case study from Data Analytics Accelerator, I was promoted to analyst World Bank data for the IDA which provides loans to developing country's. The main focus was understading how to use SQL to parse out the data needed to gain insights into which countries; receive the most loans, which countries repay loans fastes and more. 
 
