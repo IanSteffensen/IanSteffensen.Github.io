@@ -35,6 +35,10 @@ In this case study from Data Analytics Accelerator, I was prompted to analyze Do
 In this case study from Data Analytics Accelerator, I was promoted to analyst World Bank data for the IDA which provides loans to developing country's. The main focus was understading how to use SQL to parse out the data needed to gain insights into which countries; receive the most loans, which countries repay loans fastes and more. 
 
 
+
+### [SQL Healthcare Project](https://www.linkedin.com/pulse/you-important-healthcare-project-using-sql-ian-steffensen-mba/)
+[<img src="images/
+
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
