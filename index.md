@@ -37,7 +37,10 @@ In this case study from Data Analytics Accelerator, I was promoted to analyst Wo
 
 
 ### [SQL Healthcare Project](https://www.linkedin.com/pulse/you-important-healthcare-project-using-sql-ian-steffensen-mba/)
-[<img src="images/
+[<img src="images/SQL Healthcare Project.png?raw=true"/>](https://www.linkedin.com/pulse/you-important-healthcare-project-using-sql-ian-steffensen-mba/)
+This project we focus our efforts in SQL using two data bases to pull in Patient health information and Patient demographic information. We used fuctions such as INNERJOIN, GROUP BY, ORDER BY, UNION, SUBQUERY and CONCAT to disect insights from the data. Had a great time trying my hand at SQL and look forward to using SQL on a more regular basis.
+
+
 
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
