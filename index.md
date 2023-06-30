@@ -47,7 +47,7 @@ In this project I pulled all player stats from the 2022-2023 NBA season. I wante
 
 
 ### [Mining for Data using Python](https://www.linkedin.com/pulse/using-python-understand-mining-data-ian-steffensen-mba/)
-[<img src="image/Mining for Data using Python.png?raw=true"/>](https://www.linkedin.com/pulse/using-python-understand-mining-data-ian-steffensen-mba/)
+[<img src="images/Mining for Data using Python.png?raw=true"/>](https://www.linkedin.com/pulse/using-python-understand-mining-data-ian-steffensen-mba/)
 This project was focused on using Python to provide our analysis. Being fairly new to using Python it gave me a great sense on how powerful Python is and hwo you can find your answers fairly quickly if you have the right line of code. 
 
 
